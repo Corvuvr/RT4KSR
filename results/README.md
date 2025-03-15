@@ -1,0 +1,1 @@
+Upscaled image folders are saved here.

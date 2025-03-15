@@ -1,5 +1,6 @@
 __pycache__/
 dataroot/*
 results/*
+!README.md
 *.py[cod]
 *$py.class
