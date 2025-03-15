@@ -1,1 +1,5 @@
 __pycache__/
+dataroot/*
+results/*
+*.py[cod]
+*$py.class
